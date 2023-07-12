@@ -1,4 +1,4 @@
-import Citas from './clases/citas.js';
+import Citas from './clases/Citas.js';
 import UI from './clases/UI.js';
 
 import {
